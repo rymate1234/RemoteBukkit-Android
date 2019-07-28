@@ -6,3 +6,5 @@ As I never used source control for this project, all we have is an initial commi
 This app is no longer maintained, however is uploaded here for backup
 
 Play Store Link: https://play.google.com/store/apps/details?id=net.rymate.remote&hl=en_US
+
+The build.gradle will need modifications to build on newer versions of Android Studio
